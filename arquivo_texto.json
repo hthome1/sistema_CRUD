@@ -1,1 +1,8 @@
-{}
+{
+    "sujinhos": {
+        "BANANA": {
+            "Estoque": 80,
+            "Preco": 9.0
+        }
+    }
+}
